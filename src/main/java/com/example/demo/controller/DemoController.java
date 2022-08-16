@@ -14,7 +14,7 @@ public class DemoController {
 	
 	@GetMapping(value="/test1")
 	public String demo() {
-		return "Welcome to Apptad";
+		return "Welcome to Apptad Ranchi";
 	}
 	
 	@GetMapping("/getid")
